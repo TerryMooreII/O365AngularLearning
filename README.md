@@ -31,6 +31,7 @@ This list is specific to using Angular with Microsoft technologies. For general 
 
 ##Guides
 * [Getting started with Office 365 development](http://zimmergren.net/technical/getting-started-with-office-365-development-part-1-setting-up-your-environment)
+* [Microsoft Virtual Academy: Introduction to Office 365 Development](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-office-365-development)
 * [The App Playbook Series](http://www.jeremythake.com/series/appplaybook/)
 
 ##Libraries
