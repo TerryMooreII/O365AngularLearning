@@ -3,7 +3,7 @@ O365AngularLearning
 
 A simple set of resources to help folks learn and get started developing awesome experiences on the O365 platform. Please feel free to contribute!
 
-This list is specific to using Angular with Microsoft platforms. For general resources, please see the wonderful [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) project.
+This list is specific to using Angular with Microsoft technologies. For general Angular resources, please see the wonderful [AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) project.
 
 ## Table of Contents
 * [Azure](#azure)
