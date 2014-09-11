@@ -9,6 +9,7 @@ This list is specific to using Angular with Microsoft technologies. For general 
 * [Azure](#azure)
 * [Exchange](#exchange)
 * [General](#general)
+* [Guides](#guides)
 * [Libraries](#libraries)
 * [Podcasts](#podcasts)
 * [REST](#rest)
@@ -27,6 +28,10 @@ This list is specific to using Angular with Microsoft technologies. For general 
 ##General
 * [Lessons learnt from feedback on JavaScript & AngularJS in SharePoint Hosted Apps](http://www.jeremythake.com/2013/12/lessons-learnt-from-feedback-on-javascript-angularjs-in-sharepoint-hosted-apps/)
 * [Why I Prefer AngularJS vs. KnockoutJS](http://www.andrewconnell.com/blog/why-i-prefer-angularjs-vs-knockoutjs)
+
+##Guides
+* [Getting started with Office 365 development](http://zimmergren.net/technical/getting-started-with-office-365-development-part-1-setting-up-your-environment)
+* [The App Playbook Series](http://www.jeremythake.com/series/appplaybook/)
 
 ##Libraries
 * [ShareCoffee](https://github.com/ShareCoffee/ShareCoffee)
