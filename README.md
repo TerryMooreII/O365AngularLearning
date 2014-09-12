@@ -20,6 +20,7 @@ This list is specific to using Angular with Microsoft technologies. For general 
 
 ##Azure
 * [An AngularJS CRUD using Azure Mobile Services](http://michelsalib.com/2013/05/14/an-angularjs-crud-using-azure-mobile-services/)
+* [Angular Azure Mobile Service](https://github.com/TerryMooreII/angular-azure-mobile-service/)
 * [AngularJS Module for Azure Mobile Services](http://azuremobileangularservices.codeplex.com/)
 
 ##Exchange
